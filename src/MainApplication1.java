@@ -4,11 +4,11 @@ public class MainApplication1 {
 	public static void main(String[] args) {
 		//Déclaration des données
 		String[] membres = {};
-		String[][] livres = new String[2][3];
+		String[] livres = {};
+		int [] emprunts = {};
 		
 		System.out.println("Hello World");
-		
-		System.out.println("Fin du programme");
+		System.out.println("2ème modif apportée !");
 	}
 
 }
